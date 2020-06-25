@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="097bd6ba-ac6c-406c-b8c4-b5de80a12a2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ahSDg2EuR7rfM7Y6xNEqMjqH35" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Practice_Coding" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Practice_Coding" />
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Other_Algorithms" />
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Python_Laplace" />
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Math and Python\Sorting_from_StackAbuse" />
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Math and Python\Sorting_from_TutorialsPoint" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Molecular">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sorting Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Everyday_Coding" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Everyday_Coding/Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Molecular" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sorting Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Everyday_Coding" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Everyday_Coding/Molecular.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sorting Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Everyday_Coding" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Everyday_Coding/Pizza.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quadratic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sorting Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Everyday_Coding" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Everyday_Coding/Quadratic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sphere" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sorting Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Everyday_Coding" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Everyday_Coding/Sphere.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Molecular" />
+        <item itemvalue="Python.Pizza" />
+        <item itemvalue="Python.Sphere" />
+        <item itemvalue="Python.Factorial" />
+        <item itemvalue="Python.Quadratic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="097bd6ba-ac6c-406c-b8c4-b5de80a12a2c" name="Default Changelist" comment="" />
+      <created>1587186214817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587186214817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="123" key="FileChooserDialogImpl" timestamp="1587348991018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="765" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587348991018" />
+    <state width="740" height="161" key="GridCell.Tab.0.bottom" timestamp="1587473474669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="740" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587473474669" />
+    <state width="740" height="161" key="GridCell.Tab.0.center" timestamp="1587473474669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="740" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587473474669" />
+    <state width="740" height="161" key="GridCell.Tab.0.left" timestamp="1587473474669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="740" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587473474669" />
+    <state width="740" height="161" key="GridCell.Tab.0.right" timestamp="1587473474669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="740" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587473474669" />
+    <state width="740" height="222" key="GridCell.Tab.1.bottom" timestamp="1587220444318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="740" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587220444318" />
+    <state width="740" height="222" key="GridCell.Tab.1.center" timestamp="1587220444318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="740" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587220444318" />
+    <state width="740" height="222" key="GridCell.Tab.1.left" timestamp="1587220444318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="740" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587220444318" />
+    <state width="740" height="222" key="GridCell.Tab.1.right" timestamp="1587220444318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="740" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587220444318" />
+    <state x="368" y="11" key="SettingsEditor" timestamp="1587355530865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587355530865" />
+    <state x="2004" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1590755778403">
+      <screen x="1366" y="0" width="1280" height="984" />
+    </state>
+    <state x="2004" y="255" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590755778403" />
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587457482572" />
+    <state x="648" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587459147589">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="648" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587459147589" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Sorting_from_TutorialsPoint/Merge_sort.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

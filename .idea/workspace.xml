@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="641138e9-0549-4bbe-b824-241ed4e87344" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Everyday_Coding" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1asU7Oivtfzn27tJIvkGS7DTZu6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Everyday_Coding" />
+      <recent name="C:\Users\Dominic\Desktop\Github Projects Repo\Chunky Challenges" />
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Everyday_Coding\Pygame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.turing">
+    <configuration name="3D_Spinning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Everyday_Coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3D_Spinning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calc1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Everyday_Coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python and Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python and Tkinter/calc1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Everyday_Coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python and Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python and Tkinter/calc2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Everyday_Coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Everyday_Coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.turing" />
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.3D_Spinning" />
+        <item itemvalue="Python.calc2" />
+        <item itemvalue="Python.calc1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dominic\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="641138e9-0549-4bbe-b824-241ed4e87344" name="Default Changelist" comment="" />
+      <created>1587523627487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587523627487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="27" key="#Inspections" timestamp="1587967980360">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="27" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1587967980360" />
+    <state x="1725" y="-145" key="#calc2" timestamp="1592063563959">
+      <screen x="1366" y="-264" width="1280" height="984" />
+    </state>
+    <state x="1725" y="-145" key="#calc2/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1592063563959" />
+    <state x="762" y="123" key="FileChooserDialogImpl" timestamp="1588129613717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="762" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588129613717" />
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1593053459884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050389706" />
+    <state width="1242" height="227" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590782026092" />
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593053459884" />
+    <state width="1345" height="163" key="GridCell.Tab.0.center" timestamp="1593053459882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050389705" />
+    <state width="1242" height="227" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590782026091" />
+    <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593053459882" />
+    <state width="1345" height="163" key="GridCell.Tab.0.left" timestamp="1593053459882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050389705" />
+    <state width="1242" height="227" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590782026091" />
+    <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593053459882" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right" timestamp="1593053459883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050389705" />
+    <state width="1242" height="227" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590782026091" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593053459883" />
+    <state width="686" height="222" key="GridCell.Tab.1.bottom" timestamp="1590406078810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="686" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590406078810" />
+    <state width="686" height="222" key="GridCell.Tab.1.center" timestamp="1590406078809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="686" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590406078809" />
+    <state width="686" height="222" key="GridCell.Tab.1.left" timestamp="1590406078809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="686" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590406078809" />
+    <state width="686" height="222" key="GridCell.Tab.1.right" timestamp="1590406078810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="686" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590406078810" />
+    <state x="1388" y="-243" width="998" height="712" key="SettingsEditor" timestamp="1592998077565">
+      <screen x="1366" y="-264" width="1280" height="984" />
+    </state>
+    <state x="1388" y="-243" key="SettingsEditor/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1592998077565" />
+    <state x="23" y="16" width="998" height="712" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589527270672" />
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593050327554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050327554" />
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1590668336825" />
+    <state x="2004" y="255" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590759672039" />
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590402229871" />
+    <state x="640" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590238560312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="640" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590238560312" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/maxn_dom.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

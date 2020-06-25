@@ -1,0 +1,27 @@
+Codevid Protocol
+
+1. Statistical Approach
+	a. Monitor Families/Family members/
+		- Name
+		- Age
+		- Medical Records
+	b. Monitor Frontliners
+		*Distinguish among:
+		- Nurse/Doctors
+		- Technicians, etc.
+		- Employees
+		- Vendors
+		- Brgy. officials
+	c. Monitor IN/OUT within the area
+		- with or without PASS
+		- Time Record
+		- Location
+
+2. Information Distribution
+	a. Mortality Rate
+	b. Survival Chance
+	c. Do's and Dont's
+
+3. Disaster Risk reduction thru Machine Learning
+	a. Stores the records and tell whether it can 
+		occur again and how to prevent it.
