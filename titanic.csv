@@ -1,0 +1,7 @@
+	pclass	survived	gender	age	sibsp	parch
+1	1st	survived	female	29	0	0
+2	2nd	survived	male	2	1	2
+3	3rd	died	female	13	1	2
+4	4th	died	male	30	1	2
+5	5th	died	female	25	1	2
+6	6th	survived	male	48	0	0
