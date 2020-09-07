@@ -12,3 +12,4 @@ password_len = 16
 password = "".join(random.sample(s,password_len))
 print(password)
 
+

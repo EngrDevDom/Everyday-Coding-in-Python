@@ -4,7 +4,7 @@
 """
 
 while True:
-    user = input()
+    user = input('Enter a number: ')
     y = user[0] + "0" * (len(user)-1)
     res = ""
     z = int(user)
@@ -15,4 +15,5 @@ while True:
             x = str(abs(int(y) - int(z)))
             z = int(x)
             y = (x[0] + "0" * (len(x)-1))
-    print('out :', res[0:-2])
+    print('Output :', res[0:-2])
+

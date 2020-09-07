@@ -1,6 +1,6 @@
 # Find Factorial
 
-num = 7
+num = int(input('Enter a number: '))
 factorial = 1
 
 if num < 0:
@@ -12,3 +12,4 @@ else:
         factorial *= i
 
 print("The factorial of", num, "is", factorial)
+

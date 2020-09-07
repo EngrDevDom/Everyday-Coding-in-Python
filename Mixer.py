@@ -2,9 +2,9 @@ from pygame import mixer
 
 mixer.init()    # Start the mixer
 
-mixer.music.load("Ne-Yo-Together.mp3")    # Load the song
-mixer.music.set_volume(0.7)     # Set the volume
-mixer.music.play()              # Play the mixer
+mixer.music.load("Ne-Yo-Together.mp3")      # Load the song
+mixer.music.set_volume(0.7)                 # Set the volume
+mixer.music.play()                          # Play the mixer
 
 while True:
     print("Press 'p' to pause, 'r' to resume ")
@@ -18,3 +18,16 @@ while True:
     elif query == 'e':
         mixer.music.stop()      # Stop the mixer
         break
+
+'''
+Press 'p' to pause, 'r' to resume 
+Press 'e' to exit the program
+>>> p
+Press 'p' to pause, 'r' to resume 
+Press 'e' to exit the program
+>>> r
+Press 'p' to pause, 'r' to resume 
+Press 'e' to exit the program
+>>> e
+'''
+

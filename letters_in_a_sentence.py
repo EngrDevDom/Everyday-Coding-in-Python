@@ -3,15 +3,9 @@
 
 def main():
     sentence = input("Enter a sentence: ")
-
-    # count the number of words
-    x = len(sentence.split())
-
-    # count the number of white space
-    y = x - 1
-
+    x = len(sentence.split())   # count the number of words
+    y = x - 1    # count the number of white space
     z = x - y
-
     print("The number of letters in the sentence is:", z)
 
 main()

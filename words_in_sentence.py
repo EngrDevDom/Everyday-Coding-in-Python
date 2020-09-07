@@ -4,7 +4,6 @@
 def main():
     sentence = input("Enter a sentence: ")
     words = len(sentence.split())
-
     print("The number of words in the sentence is: ", words)
 
 main()

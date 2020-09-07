@@ -26,18 +26,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Projects/Electro Book" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Projects\Electro Book" />
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Everyday_Coding\Data Structures and Algorithms with Python\Chapter 1" />
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Everyday_Coding\Data Visualization using Python" />
+      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Everyday_Coding\Python MySQL Database" />
       <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Everyday_Coding" />
-      <recent name="C:\Users\Dominic\Desktop\Github Projects Repo\Chunky Challenges" />
-      <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Everyday_Coding\Pygame" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.turing">
-    <configuration name="3D_Spinning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Mixer">
+    <configuration name="Check_date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Everyday_Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3D_Spinning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Check_date.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,49 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calc1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Everyday_Coding" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python and Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python and Tkinter/calc1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="calc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Everyday_Coding" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python and Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python and Tkinter/calc2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Everyday_Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ladder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Everyday_Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +93,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ladder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mixer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Everyday_Coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mixer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ranking_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Everyday_Coding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ranking_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.turing" />
-        <item itemvalue="Python.plot" />
-        <item itemvalue="Python.3D_Spinning" />
-        <item itemvalue="Python.calc2" />
-        <item itemvalue="Python.calc1" />
+        <item itemvalue="Python.Mixer" />
+        <item itemvalue="Python.Check_date" />
+        <item itemvalue="Python.Factorial" />
+        <item itemvalue="Python.Ladder" />
+        <item itemvalue="Python.Ranking_algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -178,74 +180,80 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="550" y="27" key="#Inspections" timestamp="1587967980360">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="550" y="27" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1587967980360" />
     <state x="1725" y="-145" key="#calc2" timestamp="1592063563959">
       <screen x="1366" y="-264" width="1280" height="984" />
     </state>
     <state x="1725" y="-145" key="#calc2/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1592063563959" />
-    <state x="762" y="123" key="FileChooserDialogImpl" timestamp="1588129613717">
+    <state width="1345" height="143" key="GridCell.Tab.0.bottom" timestamp="1599423155987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="762" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588129613717" />
-    <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1593053459884">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050389706" />
+    <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594642913941" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594941287933" />
     <state width="1242" height="227" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590782026092" />
-    <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593053459884" />
-    <state width="1345" height="163" key="GridCell.Tab.0.center" timestamp="1593053459882">
+    <state width="1345" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599423155987" />
+    <state width="1259" height="250" key="GridCell.Tab.0.bottom/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1598360307986" />
+    <state width="1345" height="143" key="GridCell.Tab.0.center" timestamp="1599423155987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050389705" />
+    <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594642913941" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594941287932" />
     <state width="1242" height="227" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590782026091" />
-    <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593053459882" />
-    <state width="1345" height="163" key="GridCell.Tab.0.left" timestamp="1593053459882">
+    <state width="1345" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599423155987" />
+    <state width="1259" height="250" key="GridCell.Tab.0.center/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1598360307984" />
+    <state width="1345" height="143" key="GridCell.Tab.0.left" timestamp="1599423155986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050389705" />
+    <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594642913941" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594941287932" />
     <state width="1242" height="227" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590782026091" />
-    <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593053459882" />
-    <state width="1345" height="163" key="GridCell.Tab.0.right" timestamp="1593053459883">
+    <state width="1345" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599423155986" />
+    <state width="1259" height="250" key="GridCell.Tab.0.left/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1598360307953" />
+    <state width="1345" height="143" key="GridCell.Tab.0.right" timestamp="1599423155987">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050389705" />
+    <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594642913941" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594941287933" />
     <state width="1242" height="227" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590782026091" />
-    <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593053459883" />
-    <state width="686" height="222" key="GridCell.Tab.1.bottom" timestamp="1590406078810">
+    <state width="1345" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599423155987" />
+    <state width="1259" height="250" key="GridCell.Tab.0.right/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1598360307985" />
+    <state width="1259" height="324" key="GridCell.Tab.1.bottom" timestamp="1596606783587">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="324" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594906282473" />
+    <state width="1259" height="324" key="GridCell.Tab.1.bottom/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1596606783587" />
+    <state width="1259" height="324" key="GridCell.Tab.1.center" timestamp="1596606783587">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="324" key="GridCell.Tab.1.center/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594906282473" />
+    <state width="1259" height="324" key="GridCell.Tab.1.center/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1596606783587" />
+    <state width="1259" height="324" key="GridCell.Tab.1.left" timestamp="1596606783587">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="324" key="GridCell.Tab.1.left/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594906282472" />
+    <state width="1259" height="324" key="GridCell.Tab.1.left/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1596606783587" />
+    <state width="1259" height="324" key="GridCell.Tab.1.right" timestamp="1596606783587">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="324" key="GridCell.Tab.1.right/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594906282473" />
+    <state width="1259" height="324" key="GridCell.Tab.1.right/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1596606783587" />
+    <state x="91" y="20" width="1066" height="708" key="SettingsEditor" timestamp="1599308243467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="686" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590406078810" />
-    <state width="686" height="222" key="GridCell.Tab.1.center" timestamp="1590406078809">
+    <state x="1388" y="-243" key="SettingsEditor/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594900027857" />
+    <state x="91" y="20" width="1066" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599308243467" />
+    <state x="85" y="85" key="SettingsEditor/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1598349172265" />
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599421084968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="686" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590406078809" />
-    <state width="686" height="222" key="GridCell.Tab.1.left" timestamp="1590406078809">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594805462847" />
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594935372663" />
+    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599421084968" />
+    <state x="638" y="255" key="com.intellij.ide.util.TipDialog/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1598962054911" />
+    <state x="1961" y="445" key="com.intellij.ide.util.TipDialog/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1595470311462" />
+    <state x="255" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598357161525">
+      <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="686" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590406078809" />
-    <state width="686" height="222" key="GridCell.Tab.1.right" timestamp="1590406078810">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="686" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590406078810" />
-    <state x="1388" y="-243" width="998" height="712" key="SettingsEditor" timestamp="1592998077565">
-      <screen x="1366" y="-264" width="1280" height="984" />
-    </state>
-    <state x="1388" y="-243" key="SettingsEditor/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1592998077565" />
-    <state x="23" y="16" width="998" height="712" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589527270672" />
-    <state x="681" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593050327554">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1593050327554" />
-    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1590668336825" />
-    <state x="2004" y="255" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1280.984@1366.0.1280.984" timestamp="1590759672039" />
-    <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590402229871" />
-    <state x="640" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590238560312">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="640" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590238560312" />
+    <state x="255" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1598357161525" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

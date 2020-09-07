@@ -9,9 +9,9 @@ def main():
     radians = math.radians(angle)     # Convert degrees to radians
 
     height = float(input("Enter the value of height: "))
-
     length = height/math.sin(angle)
 
     print("The length of the ladder is", length)
 
 main()
+

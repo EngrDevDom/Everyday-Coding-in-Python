@@ -59,3 +59,4 @@ elif mode == '2':
 else:
     print("Not a valid input!")
     print(input("Press enter to quit."))
+
