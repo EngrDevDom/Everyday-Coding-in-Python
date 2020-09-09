@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="641138e9-0549-4bbe-b824-241ed4e87344" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Change_dollars_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Change_dollars_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Date_convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/Date_convert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ticket.py" beforeDir="false" afterPath="$PROJECT_DIR$/ticket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Guess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SciPy/SciPy_Fourier.py" beforeDir="false" afterPath="$PROJECT_DIR$/SciPy/SciPy_Fourier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SciPy/Scipy_Special.py" beforeDir="false" afterPath="$PROJECT_DIR$/SciPy/Scipy_Special.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SciPy/polynomials.py" beforeDir="false" afterPath="$PROJECT_DIR$/SciPy/polynomials.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +49,8 @@
       <recent name="C:\Users\Dominic\Desktop\DATA SCIENCE\Everyday_Coding" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Date_convert">
-    <configuration name="CheckArmstrongNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Guess">
+    <configuration name="Draw_Circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Everyday_Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheckArmstrongNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Draw_Circle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Date_convert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Guess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Everyday_Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Date_convert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Printing_Pattern#2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Maxima_Minima" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Everyday_Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Printing_Pattern#2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maxima_Minima.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Stats_Calcu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ranking_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Everyday_Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stats_Calcu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ranking_algorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quadratic_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="x-y_Plane" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Everyday_Coding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quadratic_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/x-y_Plane.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Date_convert" />
-        <item itemvalue="Python.quadratic_6" />
-        <item itemvalue="Python.Printing_Pattern#2" />
-        <item itemvalue="Python.CheckArmstrongNumber" />
-        <item itemvalue="Python.Stats_Calcu" />
+        <item itemvalue="Python.Guess" />
+        <item itemvalue="Python.Draw_Circle" />
+        <item itemvalue="Python.x-y_Plane" />
+        <item itemvalue="Python.Maxima_Minima" />
+        <item itemvalue="Python.Ranking_algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -196,67 +195,75 @@
       <screen x="1366" y="-264" width="1280" height="984" />
     </state>
     <state x="1725" y="-145" key="#calc2/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1592063563959" />
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1599475553172">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1259" height="210" key="GridCell.Tab.0.bottom" timestamp="1599573128127">
+      <screen x="1280" y="256" width="1366" height="728" />
     </state>
     <state width="1345" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594642913941" />
     <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594941287933" />
     <state width="1345" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599423155987" />
-    <state width="1259" height="212" key="GridCell.Tab.0.bottom/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599475553172" />
-    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1599475553172">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599571993198" />
+    <state width="1259" height="210" key="GridCell.Tab.0.bottom/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1599573128127" />
+    <state width="1259" height="210" key="GridCell.Tab.0.center" timestamp="1599573128127">
+      <screen x="1280" y="256" width="1366" height="728" />
     </state>
     <state width="1345" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594642913941" />
     <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594941287932" />
     <state width="1345" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599423155987" />
-    <state width="1259" height="212" key="GridCell.Tab.0.center/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599475553172" />
-    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1599475553171">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599571993198" />
+    <state width="1259" height="210" key="GridCell.Tab.0.center/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1599573128127" />
+    <state width="1259" height="210" key="GridCell.Tab.0.left" timestamp="1599573128127">
+      <screen x="1280" y="256" width="1366" height="728" />
     </state>
     <state width="1345" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594642913941" />
     <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594941287932" />
     <state width="1345" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599423155986" />
-    <state width="1259" height="212" key="GridCell.Tab.0.left/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599475553171" />
-    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1599475553172">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599571993198" />
+    <state width="1259" height="210" key="GridCell.Tab.0.left/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1599573128127" />
+    <state width="1259" height="210" key="GridCell.Tab.0.right" timestamp="1599573128127">
+      <screen x="1280" y="256" width="1366" height="728" />
     </state>
     <state width="1345" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594642913941" />
     <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594941287933" />
     <state width="1345" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599423155987" />
-    <state width="1259" height="212" key="GridCell.Tab.0.right/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599475553172" />
-    <state width="1259" height="324" key="GridCell.Tab.1.bottom" timestamp="1596606783587">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599571993198" />
+    <state width="1259" height="210" key="GridCell.Tab.0.right/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1599573128127" />
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom" timestamp="1599573128127">
+      <screen x="1280" y="256" width="1366" height="728" />
     </state>
     <state width="1259" height="324" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594906282473" />
-    <state width="1259" height="324" key="GridCell.Tab.1.bottom/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1596606783587" />
-    <state width="1259" height="324" key="GridCell.Tab.1.center" timestamp="1596606783587">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599571508957" />
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1599573128127" />
+    <state width="1259" height="210" key="GridCell.Tab.1.center" timestamp="1599573128127">
+      <screen x="1280" y="256" width="1366" height="728" />
     </state>
     <state width="1259" height="324" key="GridCell.Tab.1.center/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594906282473" />
-    <state width="1259" height="324" key="GridCell.Tab.1.center/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1596606783587" />
-    <state width="1259" height="324" key="GridCell.Tab.1.left" timestamp="1596606783587">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1259" height="210" key="GridCell.Tab.1.center/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599571508957" />
+    <state width="1259" height="210" key="GridCell.Tab.1.center/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1599573128127" />
+    <state width="1259" height="210" key="GridCell.Tab.1.left" timestamp="1599573128127">
+      <screen x="1280" y="256" width="1366" height="728" />
     </state>
     <state width="1259" height="324" key="GridCell.Tab.1.left/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594906282472" />
-    <state width="1259" height="324" key="GridCell.Tab.1.left/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1596606783587" />
-    <state width="1259" height="324" key="GridCell.Tab.1.right" timestamp="1596606783587">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state width="1259" height="210" key="GridCell.Tab.1.left/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599571508956" />
+    <state width="1259" height="210" key="GridCell.Tab.1.left/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1599573128127" />
+    <state width="1259" height="210" key="GridCell.Tab.1.right" timestamp="1599573128127">
+      <screen x="1280" y="256" width="1366" height="728" />
     </state>
     <state width="1259" height="324" key="GridCell.Tab.1.right/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594906282473" />
-    <state width="1259" height="324" key="GridCell.Tab.1.right/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1596606783587" />
+    <state width="1259" height="210" key="GridCell.Tab.1.right/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599571508957" />
+    <state width="1259" height="210" key="GridCell.Tab.1.right/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1599573128127" />
     <state x="91" y="20" width="1066" height="708" key="SettingsEditor" timestamp="1599308243467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1388" y="-243" key="SettingsEditor/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594900027857" />
     <state x="91" y="20" width="1066" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599308243467" />
     <state x="85" y="85" key="SettingsEditor/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1598349172265" />
-    <state x="638" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1599472704909">
+    <state x="638" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1599570472977">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-264.1280.984@0.0.1366.728" timestamp="1594805462847" />
     <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-264.1280.984@1366.-264.1280.984" timestamp="1594935372663" />
     <state x="681" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599421084968" />
-    <state x="638" y="255" key="com.intellij.ide.util.TipDialog/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599472704909" />
+    <state x="638" y="255" key="com.intellij.ide.util.TipDialog/1280.256.1366.728/0.0.1280.984@0.0.1280.984" timestamp="1599570472977" />
     <state x="1961" y="445" key="com.intellij.ide.util.TipDialog/1280.256.1366.728/0.0.1280.984@1280.256.1366.728" timestamp="1595470311462" />
     <state x="255" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598357161525">
       <screen x="0" y="0" width="1280" height="984" />
