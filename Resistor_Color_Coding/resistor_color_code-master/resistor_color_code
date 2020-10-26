@@ -1,0 +1,237 @@
+#!/usr/bin/env python
+"""Decode resistore color codes"""
+
+import getopt
+import sys
+
+short_options = "h"
+long_options = [
+    "help",
+]
+
+__version = "0.1.3"
+
+# color mappings
+digit = {
+    "black": 0,
+    "brown": 1,
+    "red": 2,
+    "orange": 3,
+    "yellow": 4,
+    "green": 5,
+    "blue": 6,
+    "violet": 7,
+    "grey": 8,
+    "white": 9,
+    "gold": None,
+    "silver": None,
+    "(none)": None,
+    "none": None,
+    "blank": None,
+}
+
+multiplier = {
+    "black": 10**0,
+    "brown": 10**1,
+    "red": 10**2,
+    "orange": 10**3,
+    "yellow": 10**4,
+    "green": 10**5,
+    "blue": 10**6,
+    "violet": 10**7,
+    "grey": 10**8,
+    "white": 10**9,
+    "gold": 10**-1,
+    "silver": 10**-2,
+    "(none)": None,
+    "none": None,
+    "blank": None,
+}
+
+#
+# Note about tolerances:
+#
+# Only 5-band resistors use brown, red, green, blue and violet as tolerance codes and _ALL_ 5-band resistors
+# use the tolerance band. The "(none)" (or blank) band is _only_ used on 4-band resistors.
+#
+tolerance = {
+    "black": None,
+    "brown": 1,
+    "red": 2,
+    "orange": None,
+    "yellow": None,
+    "green": 0.5,
+    "blue": 0.25,
+    "violet": 0.1,
+    "grey": None,
+    "white": None,
+    "gold": 5,
+    "silver": 10,
+    "(none)": 20,
+    "none": 20,
+    "blank": 20,
+}
+
+
+def usage():
+    """
+    Print usage information.
+    :return: None
+    """
+    print("""resistor_color_code version %s
+
+Copyright (c) 2017 - 2018 by Andreas Maus <ecbeb08bb9f1b8e8f421fbf4c28e3033ecb13bc0@ypbind.de>
+This program comes with ABSOLUTELY NO WARRANTY.
+
+This program is distributed under the Terms of the GNU General
+Public License Version 3. (http://www.gnu.org/copyleft/gpl.html)
+
+Usage: resistor_color_code [-h|--help] <comma_separated_list_of_color_bands> [<comma_separated_list_of_color_bands> ...]
+
+Valid color names are: %s
+
+    -h      This text
+    --help
+
+""" % (__version, ", ".join(list(digit.keys()))))
+
+
+def is_valid_color_digit(color):
+    """
+    Check if color is valid digit
+    :param color: str of color
+    :return: True or False
+    """
+    if color in digit:
+        if digit[color] is None:
+            return False
+        else:
+            return True
+    else:
+        return False
+
+
+def is_valid_color_multiplier(color):
+    """
+    Check if color is valid multiplier
+    :param color: str of color
+    :return: True or False
+    """
+    if color in multiplier:
+        if multiplier[color] is None:
+            return False
+        else:
+            return True
+    else:
+        return False
+
+
+def is_valid_color_tolerance(color, number_of_bands=5):
+    """
+    Check if color is valid tolerance
+    :param color: str of color
+    :param number_of_bands number of color bands
+    :return: True or False
+    """
+    if color in tolerance:
+        if tolerance[color] is None:
+            return False
+        else:
+            if number_of_bands == 4:
+                # Note: Brown, red, green, blue and violet are _ONLY valid for 5-band resistors !
+                if color in ("brown", "red", "green", "blue", "violet"):
+                    return False
+                else:
+                    return True
+            else:
+                return True
+    else:
+        return False
+
+
+def get_resistor_value(color_band):
+    """
+    Get resistor value
+    :param color_band: list of colors
+    :return: tuple of value in Ohm, tolerance in percent
+    """
+    if len(color_band) == 5:
+        if is_valid_color_digit(color_band[0].lower()) and is_valid_color_digit(color_band[1].lower()) and \
+                is_valid_color_digit(color_band[2].lower()):
+
+            value = 100.0 * digit[color_band[0].lower()] \
+                    + 10.0 * digit[color_band[1].lower()] \
+                    + digit[color_band[2].lower()]
+
+        else:
+            sys.stderr.write("Error: Invalid color band (digit)\n")
+            return None, None
+
+        if is_valid_color_multiplier(color_band[3].lower()):
+            value *= multiplier[color_band[3].lower()]
+        else:
+            sys.stderr.write("Error: Invalid color band (multiplier)\n")
+            return None, None
+
+        if is_valid_color_tolerance(color_band[4].lower()):
+            toler = tolerance[color_band[4].lower()]
+        else:
+            sys.stderr.write("Error: Invalid color band (tolerance)\n")
+            return None, None
+
+    elif len(color_band) == 4 or len(color_band) == 3:
+        # "3-band" resistor is a 4-band resistor with 20% tolerance, add missing "(none)" and proceed
+        if len(color_band) == 3:
+            color_band.append("(none)")
+
+        if is_valid_color_digit(color_band[0].lower()) and is_valid_color_digit(color_band[1].lower()):
+            value = 10.0 * digit[color_band[0].lower()] + digit[color_band[1].lower()]
+        else:
+            sys.stderr.write("Error: Invalid color band (digit)\n")
+            return None, None
+
+        if is_valid_color_multiplier(color_band[2].lower()):
+            value *= multiplier[color_band[2].lower()]
+        else:
+            sys.stderr.write("Error: Invalid color band (multiplier)\n")
+            return None, None
+
+        if is_valid_color_tolerance(color_band[3].lower(), number_of_bands=4):
+            toler = tolerance[color_band[3].lower()]
+        else:
+            sys.stderr.write("Error: Invalid color band (tolerance)\n")
+            return None, None
+    else:
+        sys.stderr.write("Error: Invalid color bands, expected 3, 4 or 5 but got %u instead\n" % (len(color_band), ))
+        return None, None
+
+    return value, toler
+
+
+if __name__ == "__main__":
+    try:
+        options, trailing = getopt.getopt(sys.argv[1:], shortopts=short_options, longopts=long_options)
+    except getopt.GetoptError:
+        sys.stderr.write("Error: Can't parse arguments\n")
+        sys.exit(1)
+
+    for (opt, arg) in options:
+        if opt in ("-h", "--help"):
+            usage()
+            sys.exit(0)
+        else:
+            sys.stderr.write("Error: Unknown option %s\n\n" % (opt, ))
+            usage()
+            sys.exit(1)
+
+    if len(trailing) == 0:
+        sys.stderr.write("Error: Not enough arguments\n\n")
+        usage()
+        sys.exit(1)
+
+    for bands in trailing:
+        v, t = get_resistor_value(bands.split(","))
+        if v is not None and t is not None:
+            print("%.2f +- %.2f%%" % (v, t))
+
+    sys.exit(0)

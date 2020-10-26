@@ -10,4 +10,6 @@ def main():
 
     ticket_fine = 50
 
+
+
 main()

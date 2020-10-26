@@ -2,7 +2,7 @@
     Interactive Shell 
     -> run this code in python -i filename.py
 '''
-def add(1,2):
+def add(1, 2):
     return first + second
 
 '''

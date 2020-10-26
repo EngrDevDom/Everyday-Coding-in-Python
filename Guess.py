@@ -1,5 +1,5 @@
 # Guess.py
-# This is a Number Guessing game.
+# This is a Guess the Number game.
 
 import random
 
@@ -18,16 +18,18 @@ for guessesTaken in range(6):
 
     if guess < number:
         print('Your guess is too Low.')     # Eight spaces in front of "print"
-    elif guess > number:
+
+    if guess > number:
         print('Your guess is too High.')
-    elif guess == number:
+
+    if guess == number:
         break
 
 if guess == number:
     guessesTaken = str(guessesTaken + 1)
     print('Good job, ' + myName + '! You guessed my number in ' + guessesTaken + ' guesses!')
 
-elif guess != number:
+if guess != number:
     number = str(number)
     print('Nope. The number I was thinking of was ' + number + '.')
 
