@@ -1,0 +1,36 @@
+
+print("ELEMENT\t\tLinks")
+print("A\t\t\t3")
+print("B\t\t\t3")
+print("C\t\t\t3")
+print("D\t\t\t4")
+print("E\t\t\t5\t<- greatest")
+print("F\t\t\t5\t<- greatest")
+print("G\t\t\t2\t<- fewest")
+print("H\t\t\t2\t<- fewest")
+print()
+
+
+
+A = 3
+B = 3
+C = 3
+D = 4
+E = 5
+F = 5
+G = 2
+H = 2
+
+print("1. Which has the greatest number of links? ")
+print("2. Which has the fewest number of links? ")
+print()
+
+choice = int(input("Choose a question (1 or 2): "))
+
+if choice == 1:
+    print("The greatest number of links is E and F.")
+elif choice == 2:
+    print("The fewest number of links is G and H.")
+else:
+    print()
+
