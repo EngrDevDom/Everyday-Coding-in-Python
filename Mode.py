@@ -1,7 +1,7 @@
 import collections
 
 # List of elements to calculate mode
-num_list = [21, 13, 19, 13, 19, 13]
+num_list = [21, 13, 19, 13, 19, 13, 1, 23, 125, 2, 13, 1, 1, 12, 1, 1]
 
 # Print the list
 print(num_list)

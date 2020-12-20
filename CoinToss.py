@@ -11,7 +11,7 @@ while question != "q":
     if question == "q":
         print("You're done!")
         break
-    elif question != "heads" and question != "tails" 
+    elif question != "heads" and question != "tails":
         print("WTF?")
     elif answer == 1:
         print("Heads, I win!")
